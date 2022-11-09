@@ -1,6 +1,8 @@
 # DynamoDB AWS (create-table, update-table, put-item and query)
 Criando repositório do Amazon DynamoDB no ambiente da AWS e utilizando o Amazon CLI.
 
+[![Amazon DynamoDB](https://miro.medium.com/max/700/1*cmfoGi3FnVIBCwvmVLYgjg.png "DynamoDB AWS")](https://aws.amazon.com/pt/dynamodb/?trk=3e4c2258-4f21-4854-9de7-2f6da2ef0989&sc_channel=ps&s_kwcid=AL!4422!3!589951433441!e!!g!!aws%20dynamodb&ef_id=Cj0KCQiAmaibBhCAARIsAKUlaKQJaBQRkrrlRl5FeT44QrULS1ZwfonI8KKgf5kz5rHKeMB0Z6e-mvgaAtqNEALw_wcB:G:s&s_kwcid=AL!4422!3!589951433441!e!!g!!aws%20dynamodb)
+
 ### Serviço utilizado
   - Amazon DynamoDB
   - Amazon CLI para execução em linha de comando
