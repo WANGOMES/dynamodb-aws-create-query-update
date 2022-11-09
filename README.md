@@ -1,5 +1,5 @@
-# dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+# dynamodb-aws-create-query-update
+Criando repositório do Amazon DynamoDB no ambiente da AWS e utilizando o Amazon CLI.
 
 ### Serviço utilizado
   - Amazon DynamoDB
