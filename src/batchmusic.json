@@ -3,30 +3,230 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Quase sem querer"},
+                  "AlbumTitle": {"S": "Dois"},
+                  "SongYear": {"S": "1996"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Eduardo e Monica"},
+                  "AlbumTitle": {"S": "Dois"},
+                  "SongYear": {"S": "1996"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Tempo Perdido"},
+                  "AlbumTitle": {"S": "Dois"},
+                  "SongYear": {"S": "1996"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Acrilic on Canvas"},
+                  "AlbumTitle": {"S": "Dois"},
+                  "SongYear": {"S": "1996"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Musica urbana 2"},
+                  "AlbumTitle": {"S": "Dois"},
+                  "SongYear": {"S": "1996"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Fabrica"},
+                  "AlbumTitle": {"S": "Dois"},
+                  "SongYear": {"S": "1996"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Indios"},
+                  "AlbumTitle": {"S": "Dois"},
+                  "SongYear": {"S": "1996"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Ha tempos"},
+                  "AlbumTitle": {"S": "As Quatro Estacoes"},
+                  "SongYear": {"S": "1989"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Pais e filhos"},
+                  "AlbumTitle": {"S": "As Quatro Estacoes"},
+                  "SongYear": {"S": "1989"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Monte castelo"},
+                  "AlbumTitle": {"S": "As Quatro Estacoes"},
+                  "SongYear": {"S": "1989"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Mauricio"},
+                  "AlbumTitle": {"S": "As Quatro Estacoes"},
+                  "SongYear": {"S": "1989"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Meninos e meninas"},
+                  "AlbumTitle": {"S": "As Quatro Estacoes"},
+                  "SongYear": {"S": "1989"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Perfeicao"},
+                  "AlbumTitle": {"S": "O Descobrimento do Brasil"},
+                  "SongYear": {"S": "1993"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Os barcos"},
+                  "AlbumTitle": {"S": "O Descobrimento do Brasil"},
+                  "SongYear": {"S": "1993"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Metal contra as nuvens"},
+                  "AlbumTitle": {"S": "V"},
+                  "SongYear": {"S": "1991"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "O teatro dos vampiros"},
+                  "AlbumTitle": {"S": "V"},
+                  "SongYear": {"S": "1991"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Serenissima"},
+                  "AlbumTitle": {"S": "V"},
+                  "SongYear": {"S": "1991"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Vento no litoral"},
+                  "AlbumTitle": {"S": "V"},
+                  "SongYear": {"S": "1991"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Indios"},
+                  "AlbumTitle": {"S": "Acustico MTV"},
+                  "SongYear": {"S": "1999"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Serenissima"},
+                  "AlbumTitle": {"S": "Acustico MTV"},
+                  "SongYear": {"S": "1999"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "O teatro dos vampiros"},
+                  "AlbumTitle": {"S": "Acustico MTV"},
+                  "SongYear": {"S": "1999"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Ha tempos"},
+                  "AlbumTitle": {"S": "Acustico MTV"},
+                  "SongYear": {"S": "1999"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Legiao Urbana"},
+                  "SongTitle": {"S": "Faroeste caboclo"},
+                  "AlbumTitle": {"S": "Acustico MTV"},
+                  "SongYear": {"S": "1999"}
                 }
             }
         }
