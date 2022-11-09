@@ -112,7 +112,7 @@ aws dynamodb query \
     --expression-attribute-values  '{":v_artist":{"S":"Legiao Urbana"},":v_title":{"S":"V"} }'
 ```
 
-- Pesquisa pelo index secundário baseado no título da música e no ano
+- Pesquisas pelo index secundário baseado no título da música e no ano
 
 ```
 aws dynamodb query \
