@@ -81,7 +81,7 @@ aws dynamodb update-table \
 aws dynamodb query \
     --table-name Music \
     --key-condition-expression "Artist = :artist" \
-    --expression-attribute-values  '{":artist":{"S":"Iron Maiden"}}'
+    --expression-attribute-values  '{":artist":{"S":"Legiao Urbana"}}'
 ```
 - Pesquisar item por artista e título da música
 
@@ -99,7 +99,7 @@ aws dynamodb query \
     --table-name Music \
     --index-name AlbumTitle-index \
     --key-condition-expression "AlbumTitle = :name" \
-    --expression-attribute-values  '{":name":{"S":"Fear of the Dark"}}'
+    --expression-attribute-values  '{":name":{"S":"Acustico MTV"}}'
 ```
 
 - Pesquisa pelo index secundário baseado no nome do artista e no título do álbum
@@ -109,7 +109,7 @@ aws dynamodb query \
     --table-name Music \
     --index-name ArtistAlbumTitle-index \
     --key-condition-expression "Artist = :v_artist and AlbumTitle = :v_title" \
-    --expression-attribute-values  '{":v_artist":{"S":"Iron Maiden"},":v_title":{"S":"Fear of the Dark"} }'
+    --expression-attribute-values  '{":v_artist":{"S":"Legiao Urbana"},":v_title":{"S":"V"} }'
 ```
 
 - Pesquisa pelo index secundário baseado no título da música e no ano
@@ -119,5 +119,19 @@ aws dynamodb query \
     --table-name Music \
     --index-name SongTitleYear-index \
     --key-condition-expression "SongTitle = :v_song and SongYear = :v_year" \
-    --expression-attribute-values  '{":v_song":{"S":"Wasting Love"},":v_year":{"S":"1992"} }'
+    --expression-attribute-values  '{":v_song":{"S":"Indios"},":v_year":{"S":"1999"} }'
+```
+```
+aws dynamodb query \
+    --table-name Music \
+    --index-name SongTitleYear-index \
+    --key-condition-expression "SongTitle = :v_song and SongYear = :v_year" \
+    --expression-attribute-values  '{":v_song":{"S":"Ha tempos"},":v_year":{"S":"1989"} }'
+```
+```
+aws dynamodb query \
+    --table-name Music \
+    --index-name SongTitleYear-index \
+    --key-condition-expression "SongTitle = :v_song and SongYear = :v_year" \
+    --expression-attribute-values  '{":v_song":{"S":"Ha tempos"},":v_year":{"S":"1999"} }'
 ```
