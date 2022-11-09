@@ -1,4 +1,4 @@
-# dynamodb-aws-create-query-update
+# DynamoDB AWS (create-table, update-table, put-item and query)
 Criando repositório do Amazon DynamoDB no ambiente da AWS e utilizando o Amazon CLI.
 
 ### Serviço utilizado
